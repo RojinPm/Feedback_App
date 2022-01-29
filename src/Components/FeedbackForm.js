@@ -86,9 +86,7 @@ function FeedbackForm() {
 
      }
 
-  
-
-      setText('');
+      setText('')
 
     }
 
